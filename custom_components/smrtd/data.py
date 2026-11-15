@@ -3,7 +3,7 @@ LINK = "https://sequentmicrosystems.com/products/rtd-data-acquisition-card-for-r
 
 import librtd
 API = librtd
-DOMAIN = "SMrtd"
+DOMAIN = "smrtd"
 NAME_PREFIX = "smrtd"
 SM_MAP = {
     "sensor":  {
