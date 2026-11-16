@@ -12,7 +12,7 @@
 	],
 	"config_flow": true,
 	"requirements": [
-		"SMrtd>=1.0.0",
+		"SMrtd>=1.0.3",
 		"SMcommonHA>=0.0.2"
 	]
 }
